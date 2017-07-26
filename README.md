@@ -1,5 +1,16 @@
 # Encrypted Script Parameters
 
+Interactive Functions for generating strings and decrypting them for use as script parameters
+
+This is wholly based on the bash script that JAMF IT (https://github.com/jamfit/Encrypted-Script-Parameters) created, but I've added interactivity to it so that you can just run the script and copy/paste your strings. It will then just output the information to the terminal session.
+
+If you'd like to see what JAMF IT was initially trying to solve with this please follow the link...I won't re-has it here as I won't be able to put it as eloquently as they do and I'm not going to copy/paste their readme.md here.
+
+Change the file extension from .sh to .command and you can just double click this without having to run from a regular CLI.
+
+## The following is the original content from Jamf IT 
+I take no credit or responsibility for for the content that they initially provided.  I just made it interative.
+
 ## What were we trying to solve?
 
 A standard practice when running a script in a policy that needs to interact with an API is to pass the username and password for the service as parameters. All staff at JAMF Software have read access to the majority of objects in the production JSS (we refer to the main IT managed JSS as the "production JSS" since over half the company runs their own for testing and demos!). This presents the challenge of maintaining security around these API accounts in a very transparent environment.
