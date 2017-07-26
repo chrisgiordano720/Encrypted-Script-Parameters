@@ -1,4 +1,4 @@
-# Encrypted Script Parameters
+# Interactive Encrypted Script Parameters
 
 Interactive Functions for generating strings and decrypting them for use as script parameters
 
