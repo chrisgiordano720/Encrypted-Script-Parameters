@@ -9,7 +9,7 @@ If you'd like to see what JAMF IT was initially trying to solve with this please
 Change the file extension from .sh to .command and you can just double click this without having to run from a regular CLI.
 
 ## The following is the original content from Jamf IT 
-I take no credit or responsibility for for the content that they initially provided.  I just made it interative.
+I take no credit or responsibility for for the content that they initially provided.  I just made it interactive.
 
 ## What were we trying to solve?
 
